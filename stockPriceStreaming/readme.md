@@ -186,12 +186,3 @@ docker exec -it pgvector psql -U admin -d vectordb \
   -c "SELECT symbol, window_start, open, high, low, close FROM ohlc_results ORDER BY window_start DESC LIMIT 10;"
 
 ---
-
-Built: May 2026 | Mac Apple Silicon, Docker 27.3.1, Python 3.10.14, Flink 1.17, Kafka Confluent 7.4.0create a download able pdfEditing this message will create a new conversation branch. You can switch between branches using the arrow navigation buttons.CancelSaveClaude responded: Two download options — click "Download PDF" to get a formatted PDF via html2pdf, or "Download HTML" to get a standalone HTML file you can open in any browser a…
-  ::view-transition-group(*),
-  ::view-transition-old(*),
-  ::view-transition-new(*) {
-    animation-duration: 0.25s;
-    animation-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
-  }
-VvisualizeVvisualize show_widgetTwo download options — click "Download PDF" to get a formatted PDF via html2pdf, or "Download HTML" to get a standalone HTML file you can open in any browser and print to PDF from there. The HTML option is more reliable if the PDF button doesn't work in your browser.You said: both buttons not working'
