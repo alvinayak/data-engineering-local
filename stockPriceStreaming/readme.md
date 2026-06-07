@@ -1,4 +1,4 @@
-Here's the full document — copy everything between the lines:
+
 
 # Real-time stock price streaming pipeline
 ## Project summary — Kafka + PyFlink + PostgreSQL
